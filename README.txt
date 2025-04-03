@@ -1,1 +1,0 @@
-A website to put up my portfolio projects.
